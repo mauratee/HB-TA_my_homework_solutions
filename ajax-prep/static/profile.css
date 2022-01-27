@@ -1,0 +1,25 @@
+h2 {
+    margin-top: 3em;
+    border-top: solid 1px #ccc;
+    padding-top: 0.2em;
+}
+
+input {
+	margin-top: 10px;
+}
+
+select {
+	margin-top: 10px;
+}
+
+#submit-profile {
+	margin: 10px;
+}
+
+/* Add styling to profiles div */
+#profiles {
+    font-size: large;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: yellowgreen;
+}
